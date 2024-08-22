@@ -3,7 +3,7 @@ from tkinter import messagebox
 import os
 f=open("database_proj",'a+')
 root = Tk()
-root.title("Simple Electronics shop Managment System   MADE BY PARAMJEET MAHATO")
+root.title("Simple Electronics shop Managment System  ")
 root.configure(width=1500,height=600,bg='BLUE')
 var=-1
 
